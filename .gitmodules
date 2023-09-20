@@ -1,0 +1,3 @@
+[submodule "BigDataCourseExercises"]
+	path = BigDataCourseExercises
+	url = https://github.com/jakobhviid/BigDataCourseExercises.git
